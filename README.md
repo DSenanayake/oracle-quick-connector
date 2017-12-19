@@ -4,6 +4,13 @@ This creates Quick Oracle connection with query executor which returns JSON outp
 ```sh
 java -jar OracleQueryExecutor.jar hostname port service username password query
 ```
+# Dependencies
+
+| Library | Homepage |
+| ------ | ------ |
+| ojdbc14 | [http://www.oracle.com/technetwork/database/features/jdbc/index-091264.html] |
+| jsonSimple | [https://github.com/fangyidong/json-simple] |
+
 # Usages
 - PHP
 ```sh
